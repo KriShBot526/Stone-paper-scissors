@@ -2,7 +2,7 @@
 ![This is an image](https://cdn0.vox-cdn.com/uploads/chorus_asset/file/3488502/shutterstock_106919999.0.jpg)
 
 # The goal of the project 🌎
-Rock Paper Scissors game is an iOS application developed with Swift-5. The aim is to show the user how to play in a simple way in iOS applications.
+Rock Paper Scissors game is an program developed with the help of python. The aim is to show the user how to play in a simple way in command line utility.
 
 # Project Content ℹ️
 It is a project developed with Python You will learn the usage of if-else ladder and random module and how the iterators work.
